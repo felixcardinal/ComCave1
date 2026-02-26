@@ -19,7 +19,7 @@ import java.util.Scanner;
 		
 		
 		if (age> 50)
-		{System.out.print("You're over the hill, old man");
+		{System.out.print("You're over the hill, old man!");
 		}
 		else if (age> 18)
 		{System.out.print("You're in the prime of life.");
@@ -33,4 +33,5 @@ import java.util.Scanner;
 	}
 }
    
+
 
